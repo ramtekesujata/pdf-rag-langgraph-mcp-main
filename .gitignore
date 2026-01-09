@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+env/
+venv/
+.conda/
+
+# Vector DB
+src/db/
+db/
+
+# HuggingFace cache
+.cache/
+hf_cache/
+
+# OS files
+.DS_Store
